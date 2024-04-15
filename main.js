@@ -4,7 +4,7 @@ const TelegramBot = require("node-telegram-bot-api");
 
 
 
-const token = "7081761061:AAEkMD3B0SDeBo8Qua2t_GpWRYI51gwsDzo";
+const token = "[Masukan Token API Bot Telegram Anda]";
 const options = {
     polling: true
 }
